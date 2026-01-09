@@ -30,7 +30,7 @@ links: ['Sobre a Apple', 'Newsroom', 'Privacidade', 'Carreiras']
    const buttolinks = ['Política de Privacidade', 'Termos de Uso', 'Mapa do Site', 'Informações Legais'
     ]; 
 
-    const desenvolvedor = 'WIniDevi';
+    const desenvolvedor = 'WiniDevi';
     return (
 
            <footer className="bg-gray-900 border-t border-gray-800">
