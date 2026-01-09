@@ -19,14 +19,14 @@ function Highlights() {
 
                   <div className="grid grid-cols-2 gap-8 mb-16 mt-10">
                         <div className="bg-gray-900  rounded-3xl p-8  hover:scale-105 transition-all duration-300 cursor-pointer">
-                              <img className="w-full rounded-2xl mb-4" src="../public/img/aluminium-design.jpg" alt="Destaques do iPhone 17 Pro" />
+                              <img className="w-full rounded-2xl mb-4" src="../src/assets/img/aluminium-design.jpg" alt="Destaques do iPhone 17 Pro" />
                               <h3 className="text-3xl mb-2 font-bold">Alumínio forjado.</h3>
                               <p className="text-gray-300">Design unibody. Alumínio forjado a quente. Capacidade excepcional.</p>
 
                         </div>
 
                         <div className="bg-gray-900 rounded-3xl p-8   hover:scale-105 transition-all duration-300 cursor-pointer">
-                              <img className="w-full rounded-2xl mb-4" src="../public/img/ios-features.jpg" alt="Destaques do iPhone 17 Pro" />
+                              <img className="w-full rounded-2xl mb-4" src="../src/assets/img/ios-features.jpg" alt="Destaques do iPhone 17 Pro" />
                               <h3 className="text-3xl mb-2 font-bold">IOS 26</h3>
                               <p className="text-gray-300">O sistema operacional mais avançado da história, com IA integrada.</p>
 
@@ -36,7 +36,7 @@ function Highlights() {
                   <div className="bg-gray-900 rounded-3xl p-12 mb-16 hover:scale-105 transition-all duration-300 cursor-pointer" id="performance">
                         <h3 className="text-4xl font-bold mb-8 text-gradient">A18</h3>
                         <p className="text-gray-300 mb-6">O Chip mais rápido e eficiente da história do iPhone.</p>
-                        <img className="w-full rounded-2xl mb-4" src="../public/img/chip-a18-pro.jpg" alt="A18 Chip" />
+                        <img className="w-full rounded-2xl mb-4" src="../src/assets/img/chip-a18-pro.jpg" alt="A18 Chip" />
                         <ul className="space-y-3 text-gray-300 ">
                               <li>CPU 20% mais rápida</li>
                               <li>GPU 25% mais eficiente</li>

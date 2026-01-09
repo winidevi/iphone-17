@@ -7,7 +7,7 @@ function Hero() {
         <section className="relative h-screen overflow-hidden bg-black mt-10">
 
             <div className="absolute top-19 bottom-0 right-0 left-0 z-0">
-                <img src="../public/img/hero.jpg" className="w-full h-full object-cover opacity-90"></img>
+                <img src="../src/assets/img/hero.jpg" className="w-full h-full object-cover opacity-90"></img>
 
             </div>
             <div className="absolute bottom-8 left-1/2 z-10 animate-bounce ">

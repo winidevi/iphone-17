@@ -5,9 +5,9 @@ function Colors() {
 
 
     const colors = [
-        { id: 'blue', name: 'Aluminío Azul', image: '/img/iphone-blue.jpg', colorClass: 'bg-blue-500' },
-        { id: 'silver', name: 'Aluminío Natural', image: '/img/iphone-silver.jpg', colorClass: 'bg-gray-300' },
-        { id: 'orange', name: 'Aluminío Laranja', image: '/img/iphone-orange.jpg', colorClass: 'bg-orange-500' },
+        { id: 'blue', name: 'Aluminío Azul', image: '../src/assets/img/iphone-blue.jpg', colorClass: 'bg-blue-500' },
+        { id: 'silver', name: 'Aluminío Natural', image: '../src/assets/img/iphone-silver.jpg', colorClass: 'bg-gray-300' },
+        { id: 'orange', name: 'Aluminío Laranja', image: '../src/assets/img/iphone-orange.jpg', colorClass: 'bg-orange-500' },
 
     ];
 
